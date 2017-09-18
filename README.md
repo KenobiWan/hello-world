@@ -1,2 +1,4 @@
 # hello-world
-Yet another repository
+
+Hello world
+This is my new GIT repository
